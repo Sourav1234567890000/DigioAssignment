@@ -1,0 +1,94 @@
+.EmailValidation {
+    background-color: white;
+    width: 30em;
+    height: 35em;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(156, 156, 156);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 45rem;
+    min-width: 20em;
+    min-height: 15em;
+    margin-top: 10rem;
+}
+
+.AdharValidation {
+    background-color: white;
+    width: 30em;
+    height: 35em;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(156, 156, 156);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 45rem;
+    min-width: 20em;
+    min-height: 15em;
+    margin-top: 10rem;
+}
+
+.OtpValidation {
+    background-color: white;
+    width: 30em;
+    height: 35em;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(156, 156, 156);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-left: 45rem;
+    min-width: 20em;
+    min-height: 15em;
+    margin-top: 10rem;
+}
+
+button {
+    background-color: #008CBA; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+  button:hover {
+    cursor: pointer;
+    background-color: #121212;
+  }
+
+  .heading {
+    /* border: 2px solid red; */
+    width: 100%;
+    margin-top: -22rem;
+    margin-right: 25rem;
+  }
+
+  .input-box{
+    /* border: 2px solid red; */
+    margin-top: -6rem;
+    margin-left:  -52rem;
+    height: 20vh;
+  }
+
+  input {
+    border: none;
+    height: 3em;
+    width: 23em;
+    background-color: bisque;
+    color:black;
+  }
+  
+  .msg{
+    /* border: 2px solid red; */
+    margin-top: 22rem;
+  }
+
+  .nav-btn{
+    margin-top: 2rem;
+  }
